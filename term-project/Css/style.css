@@ -36,8 +36,8 @@
   .nav {
     overflow: auto;
     width: 85%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 12%;
+    margin-right: 12%;
   }
   
   .nav ul {
@@ -48,7 +48,7 @@
   }
   
   .nav a {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
   }
   
@@ -60,15 +60,15 @@
     font-style: italic ;
   }
   
-  /*Banner*/
-  
   .banner {
     height: 650px;
     background-color: orange;
-background-image: url(../Images/Coffee\ bean.jpg);
+   background-image: url(../Images/Coffee\ bean.jpg);
     background-size: cover;
     background-position: center;
     margin-bottom: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
   }
   
   .banner-text {
