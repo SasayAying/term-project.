@@ -5,7 +5,7 @@
     color: #312a26;
   }
   
-  /* All headers Area*/
+
   
   h1,
   h2,
@@ -31,7 +31,7 @@
     width: 100%;
   }
   
-  /*Header Area*/
+ 
   
   .nav {
     overflow: auto;
@@ -104,7 +104,7 @@ background-image: url(../Images/Coffee\ bean.jpg);
     margin-bottom: 15px;
   }
   
-  /*Ads Area*/
+  
   
   .ads {
     overflow: auto;
@@ -115,7 +115,7 @@ background-image: url(../Images/Coffee\ bean.jpg);
   }
   
   .ads-box {
-    width: 49.5%;
+    width: 49%;
     float: left;
     height: 350px;
     background-size: cover;
@@ -159,7 +159,7 @@ background-image: url(../Images/Coffee\ bean.jpg);
     color: white;
   }
   
-  /*Sales Area*/
+
   
   .home p {
     text-align: center;
